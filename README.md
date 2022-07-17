@@ -1,6 +1,6 @@
 # Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alkein!
 
-I'm a Laravel & VueJS developer based in the Philippines. Currently Frontend Engineer at [Searchie.io](https://searchie.io).
+I'm a Full Stack Developer specializing in Laravel & VueJS. Currently Frontend Engineer at [Searchie.io](https://searchie.io).
 
 - 😄 Alkein (prounced 'al-ken')
 - 🖥️ Windows & Mac
