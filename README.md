@@ -14,6 +14,6 @@ I'm a Full Stack Developer specializing in Laravel & VueJS. Currently Frontend E
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<a href="#"><img src="https://devbadge.nyc3.digitaloceanspaces.com/user_badges/alkeincodes_badge.png?" alt="alkein at badge.dev"/></a>
+<a href="#"><img src="https://devbadge.nyc3.digitaloceanspaces.com/user_badges/alkeincodes_badge.png" alt="alkein at badge.dev"/></a>
 
 <a href="https://app.daily.dev/alkein"><img src="https://api.daily.dev/devcards/v2/Dmrz5pQcC0wvQ3ZW2Q9zP.png?r=rsr&type=default" width="356" alt="alkein's Dev Card"/></a>
