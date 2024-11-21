@@ -13,7 +13,7 @@ I'm a Full Stack Developer specializing in Laravel & VueJS. Currently Frontend E
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-<a href="https://badge.codechirp.dev/"><img src="https://devbadge.nyc3.digitaloceanspaces.com/user_badges/kanedev_badge.png?" alt="kanedev"/></a>
+<a href="https://badge.codechirp.dev/"><img src="https://devbadge.nyc3.digitaloceanspaces.com/user_badges/kanedev_badge.png" alt="kanedev"/></a>
 <a href="https://badge.codechirp.dev/"><img src="https://devbadge.nyc3.digitaloceanspaces.com/user_badges/alkeincodes_badge.png?" alt="alkein at badge.dev"/></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alkeincodes)](https://git.io/streak-stats)
